@@ -1,38 +1,38 @@
-h4 {
-    color green;
+h4{
+    color :green;
 }
 
-[] {
-color red;
+p.speech
+ { 
+    color :red; font-size:10x;
+ } 
+
+p.direction {
+   
+    color : red; font-size:10x; 
+}
+p.direction.hover {
+    color: black ;
+    font: 10px;
+    background-color: red;
 }
 
-/* font size &color black to speech class */
-p.speech { 
-    color : black;  font-size:14; font-family:Courier;} 
+.COMEDIAN {
+    font-style: bold;
+    color:black;
+}
 
-   /* h6 { color:black; font-size:12;} 
-/* font size &color black to directions class */
-[] { color : black; font-size:20; font-family:Arial;}
-/* bg color to directions */
-[] { background : lavender}
-/* .hover on directions color and bg color */
-[]:hover {color: red :}
-[]:hover {background : brown:}
+.VILLAIN{
+        font-style: bold;
+        color:black; 
+    }
 
-h6.COMEDIAN {
-    font-style: italic;
-    color: red;}
-
-    h6.VILLAIN{
-        font-style: italic;
-        color: red;}
-
-    h6.TRAGEDIAN{
-        font-style: italic;
-        color: red;}
-    h6.OLD MAN{
-            font-style: italic;
-            color: red;}
-     
-</body>
-</html>
+.TRAGEDIAN{
+        font-style: bold;
+        color:black;
+    }
+.OLDMAN{
+            font-style: bold;
+            color: black;
+        }
+  
