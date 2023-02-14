@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title 
-
-</title>
-</head>
-<body>
-
+h4 {
+    color green;
+}
 /* font size and color black to speech class */
-p  { color : black; font-size:22; font-family:Courier;} 
+p.speech { 
+    color : black; ; font-family:Courier;} 
 
 *h6 { color:black; font-size:12;} 
 /* font size and color black to directions class */
