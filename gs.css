@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title 
+
+</title>
+</head>
+<body>
+
+/* font size and color black to speech class */
+p  { color : black; font-size:22; font-family:Courier;} 
+
+*h6 { color:black; font-size:12;} 
+/* font size and color black to directions class */
+[] { color : black; font-size:20; font-family:Arial;}
+/* bg color to directions */
+[] { background : lavender}
+/* .hover on directions color and bg color */
+[]:hover {color: red :}
+[]:hover {background : brown:}
+
+</body>
+</html>
