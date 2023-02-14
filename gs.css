@@ -1,38 +1,40 @@
 h4{
-    color :green;
-}
-
+    color :green;}
 p.speech
  { 
-    color :red; font-size:10x;
- } 
+    color :red; font-size:10x; } 
 
 p.direction {
-   
-    color : red; font-size:10x; 
-}
+       color : red; font-size:10x; }
+
 p.direction.hover {
     color: black ;
     font: 10px;
-    background-color: red;
-}
+    background-color: red; }
 
 .COMEDIAN {
     font-style: bold;
-    color:black;
-}
+    color:black; }
 
 .VILLAIN{
         font-style: bold;
-        color:black; 
-    }
+        color:black; }
 
 .TRAGEDIAN{
         font-style: bold;
-        color:black;
-    }
+        color:black;  }
 .OLDMAN{
             font-style: bold;
-            color: black;
-        }
+            color: black; }
+
   
+table { border: dashed 3px red;
+        border-collapse: separate;
+        padding: 10px;
+        margin: 60px 13em 15pt 10%;}
+
+    td, th {border: solid 1px ;
+    text-align: center;}
+
+    tr:nth-child(even)
+{background-color: #e2e2e2;}
