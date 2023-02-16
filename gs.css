@@ -1,6 +1,3 @@
-h4{
-    color :green;}
-
 p.speech
  { 
     color :black;
@@ -19,19 +16,18 @@ p.direction:hover {
 
 .COMEDIAN {
     font-style: bold;
-    color:black; }
+    color:blue ; }
 
 .VILLAIN {
         font-style: bold;
-        color:black; }
+        color:green; }
 
 .TRAGEDIAN {
         font-style: bold;
-        color:black;  }
+        color:deeppink;  }
 .OLDMAN {
             font-style: bold;
-            color: black; }
-
+            color:grey ; }
   
 table { border: solid 3px red;
         border-collapse: collapse;
@@ -41,8 +37,8 @@ table { border: solid 3px red;
     td, th {border: solid 1px ;
     text-align: center;}
 
-    tr:nth-child(even)
-{background-color: #e2e2e2;}
+    tr:nth-child(even) {
+        background-color: #e2e2e2; }
 
 h6:hover{
     box-shadow: 2px 3px 5px greenyellow;
@@ -61,7 +57,7 @@ h6:hover{
     li {
         float: left; }
       
-    li a{
+    li a {
         display: block;
         color: blue;
         font-style: italic;
@@ -69,7 +65,7 @@ h6:hover{
         padding: 14px 16px;
         text-decoration: none; }
       
-img{
+img {
         float: left;
         color: #f2f2f2;
         text-align: center;
